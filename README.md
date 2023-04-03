@@ -32,6 +32,6 @@ Or you can Scan QR ,for this you need have the Expo Go app installed.
 
 Examples App
 
-![screen1](https://user-images.githubusercontent.com/64506662/229617781-d72859fb-3962-45fd-92eb-d7d5a8c8af41.jpg)
 
-![screen2](https://user-images.githubusercontent.com/64506662/229617837-2edd7e0a-52d5-48dc-bb7b-d5f08a626bd5.jpg)
+![screen1](https://user-images.githubusercontent.com/64506662/229618388-87f68dcf-a4f7-4cf5-9f5d-ea7ee9c91c1f.jpg)
+![screen2](https://user-images.githubusercontent.com/64506662/229618411-b93cc4f3-9bae-4760-b945-cfa72b4a0b73.jpg)
