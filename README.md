@@ -1,6 +1,6 @@
 # Jobs Tracking App for mobile
 
-### Jobs is tracking app for mobile where you can search for the latest offers work based on the API of Rapiapi.
+### Jobs is tracking app for mobile where you can search for the latest offers work based on the API of RapidApi.
 
 ### Built With
 
