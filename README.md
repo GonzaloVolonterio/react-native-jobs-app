@@ -33,6 +33,7 @@ Or you can Scan QR ,for this you need have the Expo Go app installed.
 Examples App
 
 ![screen1](https://user-images.githubusercontent.com/64506662/229618704-cf32a118-1765-41b0-9e53-30fe70adec36.jpg)
+
 ![screen2](https://user-images.githubusercontent.com/64506662/229618725-6eb4c4a1-3ab1-418b-b8c2-9b69a52f6890.jpg)
 
 
