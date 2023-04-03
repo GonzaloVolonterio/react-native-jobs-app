@@ -10,16 +10,11 @@ React-Native
 RapiAPI
 
 ```
-### Live
 
-```
-
-
-```
 ### Clone repo 🔧
 
 ```
-
+https://github.com/GonzaloVolonterio/react-native-jobs-app
 
 ```
 ### Install🔧
