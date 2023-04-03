@@ -24,8 +24,6 @@ npm install
 
 npx expo start
 
-
-
 ```
 
 o Scan QR ,for this you need have the Expo Go app installed.
