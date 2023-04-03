@@ -31,6 +31,6 @@ Or you can Scan QR ,for this you need have the Expo Go app installed.
 ![react-native-jobs-app-scan-qr](https://user-images.githubusercontent.com/64506662/229613199-8c75e520-72d8-41e9-b713-b6cac6d8e93d.jpg)
 
 Examples App
+![screen1](https://user-images.githubusercontent.com/64506662/229619895-ffce12e2-6ab9-491b-b569-7f361dc2f76e.jpg)
+![screen2](https://user-images.githubusercontent.com/64506662/229619918-a5dc0a39-aa10-4253-8129-566502d160b9.jpg)
 
-![screen1](https://user-images.githubusercontent.com/64506662/229619701-174dd2d4-9b36-485c-9cde-7d0f53026b71.png)
-![screen2](https://user-images.githubusercontent.com/64506662/229619746-d39226dd-5527-475f-b2c6-b6a89adab2d1.png)
