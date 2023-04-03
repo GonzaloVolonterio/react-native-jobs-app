@@ -1,15 +1,29 @@
-# Expo Router Example
+# Jobs Tracking App for mobile
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+### Jobs is tracking app for mobile where you can search for the latest offers work based on the API of Rapiapi.
 
-## 🚀 How to use
+### Built With
 
-```sh
-npx create-react-native-app -t with-router
+```
+Expo
+React-Native
+RapiAPI
+
+```
+### Live
+
 ```
 
-## 📝 Notes
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
+```
+### Clone repo 🔧
+
+```
+
+
+```
+### Install🔧
+
+```
+npm install
+```
