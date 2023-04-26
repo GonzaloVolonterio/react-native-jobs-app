@@ -22,7 +22,7 @@ https://github.com/GonzaloVolonterio/react-native-jobs-app
 ```
 npm install
 
-npx expo start
+npx expo start or npm start
 
 ```
 
