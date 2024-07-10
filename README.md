@@ -23,8 +23,9 @@
  React-native-screens
  React-Native
  Axios
+ Node.js
  RapidAPI
- Css Style
+ Stylesheet
 ```
 
 ### Clone repo 🔧
@@ -39,6 +40,20 @@ https://github.com/GonzaloVolonterio/react-native-jobs-app
 npm install
 
 npm start
+```
+
+ ### Set Up Environment Variables
+
+Create your free credentials
+
+ https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch 
+
+```
+Create a new file named .env in the root of your project and add the following content:
+
+EXPO_PUBLIC_API_KEY_RAPID_API_KEY
+EXPO_PUBLIC_RAPID_API_HOST
+
 ```
 
 Examples App
