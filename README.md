@@ -30,6 +30,5 @@ npm start
 
 Examples App
 
-![screen1](https://user-images.githubusercontent.com/64506662/229620851-9c20c8f5-1f7a-4616-b7db-11d8cfa8fbd5.jpg)
-![screen2](https://user-images.githubusercontent.com/64506662/229621336-afc48f90-379c-42ba-a19e-3fa8efc992bc.jpg)
+![jobapp](https://github.com/GonzaloVolonterio/react-native-jobs-app/assets/64506662/3a2e1a58-215d-49f4-80d9-48b5606dc4b9)
 
