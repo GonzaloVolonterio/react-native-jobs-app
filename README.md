@@ -22,13 +22,10 @@ https://github.com/GonzaloVolonterio/react-native-jobs-app
 ```
 npm install
 
-npx expo start or npm start
-
+npm start
 ```
 
-Or you can Scan QR ,for this you need have the Expo Go app installed.
 
-![qr-jobsapp](https://user-images.githubusercontent.com/64506662/234653831-dcdb40ae-e399-46b5-ac83-0115223daacc.png)
 
 
 Examples App
