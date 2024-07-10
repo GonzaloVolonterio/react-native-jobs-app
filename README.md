@@ -5,10 +5,26 @@
 ### Built With
 
 ```
-Expo
+ React-Native
+ Expo
+ Expo-constants
+ Expo-font
+ Expo-linking
+ Expo-router
+ Expo-splash-screnn
+ Expo-status-bar
+ React
+ React-dom
+ React-native
+ React-native-dotenv
+ React-native-gesture-handler
+ React-native-reanimated
+ React-native-safe-area-context
+ React-native-screens
 React-Native
+Axios
 RapidAPI
-
+Css Style
 ```
 
 ### Clone repo 🔧
