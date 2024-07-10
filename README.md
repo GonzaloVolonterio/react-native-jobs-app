@@ -25,10 +25,11 @@ npm install
 npm start
 ```
 
-
-
-
 Examples App
 
 ![jobapp](https://github.com/GonzaloVolonterio/react-native-jobs-app/assets/64506662/3a2e1a58-215d-49f4-80d9-48b5606dc4b9)
+
+https://github.com/GonzaloVolonterio/react-native-jobs-app/assets/64506662/2ad6227a-ac79-4eb1-88e5-ec99d363b542
+
+
 
