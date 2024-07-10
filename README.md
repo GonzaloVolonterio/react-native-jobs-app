@@ -21,10 +21,10 @@
  React-native-reanimated
  React-native-safe-area-context
  React-native-screens
-React-Native
-Axios
-RapidAPI
-Css Style
+ React-Native
+ Axios
+ RapidAPI
+ Css Style
 ```
 
 ### Clone repo 🔧
