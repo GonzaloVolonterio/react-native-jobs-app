@@ -45,6 +45,7 @@
  Axios
  Node.js
  RapidAPI
+ JavaScript 
  Stylesheet
 ```
 
